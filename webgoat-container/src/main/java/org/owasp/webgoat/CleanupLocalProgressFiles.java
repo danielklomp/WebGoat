@@ -4,10 +4,8 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnExpression;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.util.FileSystemUtils;
 
 import javax.annotation.PostConstruct;
-import java.io.File;
 
 /**
  * @author nbaars

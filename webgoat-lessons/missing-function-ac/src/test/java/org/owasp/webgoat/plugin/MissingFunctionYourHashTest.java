@@ -12,7 +12,6 @@ import org.owasp.webgoat.users.WebGoatUser;
 import org.springframework.test.util.ReflectionTestUtils;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
-import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
 
 import static org.mockito.Matchers.anyString;
 import static org.mockito.Mockito.when;

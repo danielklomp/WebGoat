@@ -41,7 +41,7 @@ public class Assignment7 extends AssignmentEndpoint {
             "\n" +
             "If you have any comments or questions, please do not hesitate to reach us at support@webgoat-cloud.org" +
             "\n\n" +
-            "Kind regards, \nTeam WebGoat";
+            "Kind regards, \nDaniel";
 
     @Autowired
     private RestTemplate restTemplate;
@@ -55,7 +55,7 @@ public class Assignment7 extends AssignmentEndpoint {
                     "<img src='/WebGoat/images/hi-five-cat.jpg'>" +
                     "<br/><br/>Here is your flag: " + "<b>" + FLAGS.get(7) + "</b>");
         }
-        return ResponseEntity.status(HttpStatus.I_AM_A_TEAPOT).body("That is not the reset link for admin");
+        return ResponseEntity.status(HttpStatus.I_AM_A_TEAPOT).body("That is not the reset link for daniel");
     }
 
     @RequestMapping(method = POST)

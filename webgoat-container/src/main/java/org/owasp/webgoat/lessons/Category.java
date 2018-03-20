@@ -55,7 +55,7 @@ public enum Category {
     ERROR_HANDLING("Improper Error Handling", new Integer(1400)),
     DOS("Denial of Service", new Integer(1500)),
     MALICIOUS_EXECUTION("Malicious Execution", new Integer(1600)),
-    CLIENT_SIDE("Client side", new Integer(1700)),
+    HTML_ESCAPING("HTML Escaping", new Integer(1700)),
     SESSION_MANAGEMENT("Session Management Flaws", new Integer(1800)),
     WEB_SERVICES("Web Services", new Integer(1900)),
     ADMIN_FUNCTIONS("Admin Functions", new Integer(2000)),

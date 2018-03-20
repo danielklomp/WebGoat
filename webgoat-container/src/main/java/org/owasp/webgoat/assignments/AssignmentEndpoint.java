@@ -27,9 +27,9 @@ package org.owasp.webgoat.assignments;
 import lombok.Getter;
 import org.owasp.webgoat.i18n.PluginMessages;
 import org.owasp.webgoat.session.UserSessionData;
+import org.owasp.webgoat.session.WebSession;
 import org.owasp.webgoat.users.UserTracker;
 import org.owasp.webgoat.users.UserTrackerRepository;
-import org.owasp.webgoat.session.WebSession;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**

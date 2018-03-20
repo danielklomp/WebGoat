@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 
 @DataJpaTest
 @RunWith(SpringRunner.class)

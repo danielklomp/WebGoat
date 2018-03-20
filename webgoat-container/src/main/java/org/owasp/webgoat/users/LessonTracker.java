@@ -1,7 +1,6 @@
 
 package org.owasp.webgoat.users;
 
-import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
 import lombok.Getter;
 import org.owasp.webgoat.lessons.AbstractLesson;

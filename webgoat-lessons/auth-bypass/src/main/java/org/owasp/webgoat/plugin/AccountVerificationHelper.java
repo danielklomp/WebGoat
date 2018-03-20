@@ -1,9 +1,5 @@
 package org.owasp.webgoat.plugin;
 
-import org.jcodings.util.Hash;
-import org.owasp.webgoat.session.UserSessionData;
-import org.springframework.beans.factory.annotation.Autowired;
-
 import java.util.HashMap;
 import java.util.Map;
 

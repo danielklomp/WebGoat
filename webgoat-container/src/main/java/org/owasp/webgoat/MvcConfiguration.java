@@ -34,7 +34,6 @@ import com.google.common.collect.Sets;
 import org.owasp.webgoat.i18n.Language;
 import org.owasp.webgoat.i18n.Messages;
 import org.owasp.webgoat.i18n.PluginMessages;
-import org.owasp.webgoat.session.Course;
 import org.owasp.webgoat.session.LabelDebugger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

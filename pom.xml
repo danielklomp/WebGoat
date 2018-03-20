@@ -170,7 +170,7 @@
         <module>webgoat-container</module>
         <module>webgoat-lessons</module>
         <module>webgoat-server</module>
-        <module>webwolf</module>
+        <!--<module>webwolf</module>-->
     </modules>
 
     <distributionManagement>

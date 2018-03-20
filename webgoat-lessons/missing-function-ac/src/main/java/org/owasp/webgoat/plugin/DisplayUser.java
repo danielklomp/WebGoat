@@ -1,7 +1,6 @@
 package org.owasp.webgoat.plugin;
 
 
-import lombok.Getter;
 import org.owasp.webgoat.users.WebGoatUser;
 import org.springframework.security.core.GrantedAuthority;
 
